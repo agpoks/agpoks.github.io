@@ -1,0 +1,50 @@
+name: Sync public LinkedIn news
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 */6 * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: portfolio-pages
+  cancel-in-progress: false
+jobs:
+  sync-and-publish:
+    if: vars.LINKEDIN_NEWS_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Import authorized public posts
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_AUTHOR_URN: ${{ secrets.LINKEDIN_AUTHOR_URN }}
+          LINKEDIN_API_VERSION: ${{ vars.LINKEDIN_API_VERSION }}
+        run: python scripts/sync_linkedin.py
+      - name: Save generated public news
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add data/news.json news.html index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "Update public LinkedIn news"
+            git push
+          fi
+      - name: Stage static files
+        run: |
+          python scripts/render_lab.py
+          python scripts/stage_public.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _public
+      - name: Publish updated site
+        id: deployment
+        uses: actions/deploy-pages@v4
