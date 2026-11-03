@@ -1,189 +1,29 @@
 {
   "basics": {
-    "name": "Agnes Poks",
-    "label": "Mechanical and Electrical Engineer",
-    "image": "pictures/foto.png",
-    "email": "agnes.poks@gmail.com",
-    "url": "",
-    "summary": "Experienced engineer with a background in control systems, electric drives, and vehicle dynamics. Proven track record in R&D, project assistance, and teaching.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Vienna",
-      "countryCode": "AT",
-      "region": "Austria"
-    },
-    "profiles": []
+    "name": "Dr. Agnes Poks",
+    "label": "Postdoctoral Researcher · TU Wien",
+    "email": "agnes.poks@tuwien.ac.at",
+    "url": "https://agpoks.github.io",
+    "summary": "Research in model-based and learning-based control, vehicle dynamics, energy management and fault diagnosis."
   },
   "work": [
     {
       "name": "TU Wien",
-      "position": "Project Assistant",
-      "url": "https://www.tuwien.at/en/mwbw/mec/e325-01-research-unit-of-technical-dynamics-and-vehicle-system-dynamics",
-      "startDate": "2023-03-01",
-      "endDate": "",
-      "summary": "Research in motorcycle safety and trajectory estimation for off-road vehicles.",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2025-08",
       "highlights": [
-        "Motorcycle Safety - Friction potential estimation (with KTM and PIERER)",
-        "Safe trajectory estimation (with Rheinmetall AG)"
+        "Principal Investigator of AIDA",
+        "Predictive and learning-based control",
+        "Research project coordination and teaching"
       ]
-    },
-    {
-      "name": "TU Wien",
-      "position": "Project Assistant",
-      "url": "https://www.tuwien.at/en/mwbw/mec/e325-04-research-unit-of-control-and-process-automation",
-      "startDate": "2019-07-01",
-      "endDate": "2023-02-28",
-      "summary": "Worked on multiple research projects related to vehicle control and modeling.",
-      "highlights": [
-        "Distributed MPC for cooling units in trucks (DiNaMiC)",
-        "Model-based control of electric refrigerated transporters (CONSERVE)",
-        "Simulation of fuel cell systems for virtual sensors (KEYTECH4EV)",
-        "Gearbox control for rotorcraft (VARI-SPEED-II)"
-      ]
-    },
-    {
-      "name": "ZIEHL-ABEGG SE",
-      "position": "Software Engineer",
-      "url": "https://www.ziehl-abegg.com/",
-      "startDate": "2015-02-01",
-      "endDate": "2019-05-31",
-      "summary": "R&D of electric drive controls and embedded systems.",
-      "highlights": [
-        "Sensorless drive control development",
-        "Embedded software in C/C++ for diverse processor architectures"
-      ]
-    },
-    {
-      "name": "ZIEHL-ABEGG SE",
-      "position": "International Internship",
-      "url": "https://www.ziehl-abegg.com/zh/",
-      "startDate": "2012-02-01",
-      "endDate": "2012-10-31",
-      "summary": "Designed automatic pulse magnetization device for EC rotors.",
-      "highlights": []
-    },
-    {
-      "name": "ZIEHL-ABEGG SE",
-      "position": "R&D Intern",
-      "url": "https://www.ziehl-abegg.com/",
-      "startDate": "2011-07-01",
-      "endDate": "2015-02-01",
-      "summary": "Worked on simulation, microcontroller programming, and software testing.",
-      "highlights": []
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "TU Wien",
-      "url": "https://www.tuwien.at/",
-      "area": "Mechanical Engineering",
       "studyType": "Doctor of Technical Sciences",
-      "startDate": "2019-10-01",
-      "endDate": "2024-12-31",
-      "score": "",
-      "courses": [],
-      "summary": "Doctor of Technical Sciences with a focus on vehicle system dynamics. Advisor: Prof. Dr.techn. Martin Kozek"
-    },
-    {
-      "institution": "Hochschule Darmstadt",
-      "url": "https://h-da.de/",
-      "area": "Electrical Engineering and Information Technology",
-      "studyType": "Master of Science",
-      "startDate": "2015-01-01",
-      "endDate": "2019-01-01",
-      "score": "",
-      "courses": [],
-      "summary": "Thesis on winding admittances in PMSMs. Advisor: Prof. Dr.-Ing. Serge Zacher"
-    },
-    {
-      "institution": "Hochschule Heilbronn",
-      "url": "https://www.hs-heilbronn.de/",
-      "area": "Electrical Engineering",
-      "studyType": "Bachelor of Science",
-      "startDate": "2011-01-01",
-      "endDate": "2015-01-01",
-      "score": "",
-      "courses": [],
-      "summary": "Thesis on sensorless control of asynchronous machines. Advisor: Prof. Dr.-Ing. Jürgen Ulm"
-    },
-    {
-      "institution": "Ziehl-Abegg SE",
-      "url": "https://www.ziehl-abegg.com/",
-      "area": "Electronics (Geräte und Systeme)",
-      "studyType": "Vocational Training",
-      "startDate": "2009-01-01",
-      "endDate": "2011-01-01",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "ecom Instruments GmbH",
-      "url": "https://www.ecom-ex.com/",
-      "area": "Industrial Business Management",
-      "studyType": "Vocational Training",
-      "startDate": "2003-01-01",
-      "endDate": "2006-01-01",
-      "score": "",
-      "courses": []
+      "endDate": "2025"
     }
   ],
-  "awards": [],
-  "certificates": [],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Programming",
-      "level": "Advanced",
-      "keywords": ["C", "C++", "Rust", "Java", "MATLAB", "Python", "Assembler", "HTML", "CSS"]
-    },
-    {
-      "name": "Simulation",
-      "level": "Advanced",
-      "keywords": ["SIMPACK", "Adams", "Gazebo"]
-    },
-    {
-      "name": "CAD",
-      "level": "Intermediate",
-      "keywords": ["Autodesk Inventor", "Fusion 360"]
-    },
-    {
-      "name": "Software Tools",
-      "level": "Intermediate",
-      "keywords": ["Microsoft Office", "LaTeX", "ROS", "ROS2", "Git"]
-    },
-    {
-      "name": "Operating Systems",
-      "level": "Intermediate",
-      "keywords": ["Windows", "Linux"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Technology",
-      "keywords": [
-        "f1tenth Autonomous Car Racing",
-        "robotics",
-        "motorcycling",
-        "RC aircraft",
-        "cars",
-        "drones",
-        "sports",
-        "traveling"
-      ]
-    }
-  ],
-  "references": [],
   "projects": []
 }
