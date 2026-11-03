@@ -1,0 +1,251 @@
+[
+  {
+    "id": "aida",
+    "title": "AIDA — AI-Driven Distributed Autonomy",
+    "funder": "FWF · Austrian Science Fund",
+    "status": "Awarded · start date pending",
+    "period": "Start date to be confirmed",
+    "role": "Principal Investigator · Co-I: Ezio Bartocci",
+    "description": "Distributed learning, planning and coordination for connected autonomous vehicles, with real-time and safety requirements.",
+    "partners": "TU Wien · TrustCPS",
+    "amount": "€384,386 · total project funding",
+    "url": "https://www.trustcps.eu/projects.html",
+    "tags": [
+      "Autonomous driving",
+      "AI",
+      "Real-time systems"
+    ],
+    "search": "learning",
+    "image": "assets/roboracer-platform.webp",
+    "de": {
+      "status": "Bewilligt · Starttermin offen",
+      "period": "Startdatum noch zu bestätigen",
+      "role": "Principal Investigator · Co-I: Ezio Bartocci",
+      "description": "Verteiltes Lernen, Planung und Koordination für vernetzte autonome Fahrzeuge mit Echtzeit- und Sicherheitsanforderungen.",
+      "amount": "384.386 € · gesamte Projektförderung"
+    },
+    "extra": [
+      [
+        "Funding scope",
+        "Total project funding at TU Wien, reported by TrustCPS; not a personal payment.",
+        "Förderumfang",
+        "Gesamte Projektförderung an der TU Wien laut TrustCPS; keine persönliche Auszahlung."
+      ]
+    ]
+  },
+  {
+    "id": "teress",
+    "title": "TERESS — Thermal Energy Recovery for Small Satellites",
+    "funder": "aws · Austria Wirtschaftsservice",
+    "status": "Awarded · aws First Incubator",
+    "period": "2026–2027 · project end: 31 December 2027",
+    "role": "Co-applicant / project team · Agnes Poks",
+    "description": "Early-stage venture development in space energy systems, supported by grant funding, coaching and mentoring.",
+    "partners": "Agnes Poks · Eva Vasilova",
+    "amount": "Up to €51,600 · project grant",
+    "url": "https://www.aws.at/en/aws-first-incubator/",
+    "tags": [
+      "Entrepreneurship",
+      "Space energy",
+      "Incubation"
+    ],
+    "search": "",
+    "image": "",
+    "de": {
+      "status": "Bewilligt · aws First Incubator",
+      "period": "2026–2027 · Projektende: 31. Dezember 2027",
+      "role": "Mitantragstellerin / Projektteam · Agnes Poks",
+      "description": "Entwicklung einer Gründungsidee im Bereich Weltraum-Energiesysteme mit Zuschuss, Coaching und Mentoring.",
+      "amount": "Bis zu 51.600 € · Projektzuschuss"
+    },
+    "extra": [
+      [
+        "Programme",
+        "aws First Incubator · entrepreneurship support, separate from TU Wien research grants.",
+        "Programm",
+        "aws First Incubator · Gründungsförderung, getrennt von TU-Wien-Forschungsförderungen."
+      ],
+      [
+        "Additional non-cash support",
+        "Coaching / professionalisation services up to €20,000; innovation-protection advice up to €1,700. These are services, not cash grant additions.",
+        "Zusätzliche Sachleistungen",
+        "Gründungs- und Professionalisierungsberatung bis 20.000 €; Innovationsschutzberatung bis 1.700 €. Dienstleistungen, keine zusätzlichen Geldzuschüsse."
+      ],
+      [
+        "Grant basis",
+        "Approved maximum; final eligible costs and payment follow the programme conditions. Award documentation reviewed; private documents are not published.",
+        "Förderbasis",
+        "Bewilligter Höchstbetrag; endgültige förderfähige Kosten und Auszahlung richten sich nach den Programmbedingungen. Förderunterlagen geprüft; private Dokumente werden nicht veröffentlicht."
+      ]
+    ]
+  },
+  {
+    "id": "conserve",
+    "title": "CONSERVE — Electric Refrigerated Transport",
+    "funder": "FFG · Austrian Research Promotion Agency",
+    "status": "Completed research project",
+    "period": "February 2019 – October 2021 · TU project record",
+    "role": "Co-project lead · budget and project management",
+    "description": "Predictive energy management, cooling control and fault diagnosis for an electric refrigerated delivery vehicle.",
+    "partners": "VOLTIA · IESTA · HiWitronics · TU Wien / IFA",
+    "amount": "Grant 871526 · amount not publicly reported",
+    "url": "https://www.tuwien.at/en/mwbw/mec/e325-04-research-unit-of-control-and-process-automation/research-projects/conserve",
+    "tags": [
+      "Energy management",
+      "Electric vehicles",
+      "MPC"
+    ],
+    "search": "refrigerat",
+    "image": "assets/conserve-tu-vehicle.jpg",
+    "de": {
+      "status": "Abgeschlossenes Forschungsprojekt",
+      "period": "Februar 2019 – Oktober 2021 · TU-Projektseite",
+      "role": "Co-Projektleitung · Budget- und Projektmanagement",
+      "description": "Prädiktives Energiemanagement, Kühlungsregelung und Fehlerdiagnose für ein elektrisches Kühlfahrzeug.",
+      "amount": "Fördernummer 871526 · Betrag nicht öffentlich ausgewiesen"
+    },
+    "extra": []
+  },
+  {
+    "id": "dinamic",
+    "title": "DiNaMiC — Distributed Predictive Cooling Control",
+    "funder": "FFG · Austrian Research Promotion Agency",
+    "status": "Completed research project",
+    "period": "February 2019 – January 2022 · TU project record",
+    "role": "Work package lead",
+    "description": "Distributed model predictive control for modular refrigeration units, with experimental validation.",
+    "partners": "PRODUCTBLOKS / PBX · TU Wien",
+    "amount": "Grant 871303 · amount not publicly reported",
+    "url": "https://www.tuwien.at/en/mwbw/mec/e325-04-research-unit-of-control-and-process-automation/research-projects/dinamic",
+    "tags": [
+      "Distributed control",
+      "Refrigeration",
+      "MPC"
+    ],
+    "search": "refrigerat",
+    "image": "assets/distributed-cooling-control.webp",
+    "de": {
+      "status": "Abgeschlossenes Forschungsprojekt",
+      "period": "Februar 2019 – Januar 2022 · TU-Projektseite",
+      "role": "Workpackage-Leitung",
+      "description": "Verteilte modellprädiktive Regelung modularer Kühleinheiten mit experimenteller Validierung.",
+      "amount": "Fördernummer 871303 · Betrag nicht öffentlich ausgewiesen"
+    },
+    "extra": []
+  },
+  {
+    "id": "keytech",
+    "title": "KEYTECH4EV — Fuel-cell System Modelling",
+    "funder": "Climate and Energy Fund · FFG programme administration",
+    "status": "Completed collaboration",
+    "period": "Historical project · see official project record",
+    "role": "Work package lead",
+    "description": "Fuel-cell dynamics modelling and virtual-sensor research in a fuel-cell / battery vehicle programme.",
+    "partners": "AVL (consortium lead) · MAGNA STEYR · ElringKlinger · HOERBIGER · HyCentA · IESTA · TU Graz · TU Wien",
+    "amount": "Consortium funding · no personal grant total",
+    "url": "https://nachhaltigwirtschaften.at/resources/nw_pdf/eia/eia_201_en.pdf",
+    "tags": [
+      "Fuel cells",
+      "Modelling",
+      "Vehicle systems"
+    ],
+    "search": "fuel",
+    "image": "assets/fuelcell-original.webp",
+    "de": {
+      "status": "Abgeschlossene Kooperation",
+      "period": "Früheres Projekt · siehe offizielle Projektinformationen",
+      "role": "Workpackage-Leitung",
+      "description": "Modellierung der Brennstoffzellendynamik und Forschung zu virtuellen Sensoren im Brennstoffzellen-/Batterie-Fahrzeugprogramm.",
+      "amount": "Konsortialförderung · keine persönliche Fördersumme"
+    },
+    "extra": []
+  },
+  {
+    "id": "varispeed",
+    "title": "VARI-SPEED II — Variable-Speed Rotorcraft Powertrain",
+    "funder": "FFG · transnational research",
+    "status": "Completed research project",
+    "period": "January 2019 – April 2023 · TU project record",
+    "role": "Work package lead",
+    "description": "Control design, drivetrain modelling and validation for a rotor system with variable speed.",
+    "partners": "TU München · Zoerkler Gears · Advanced Drivetrain Technologies · TU Wien",
+    "amount": "Project funding · amount not publicly reported",
+    "url": "https://projekte.ffg.at/projekt/f39a433e-f36b-1410-85ea-00d3c07d99bb",
+    "tags": [
+      "Powertrain control",
+      "Rotorcraft",
+      "MPC"
+    ],
+    "search": "rotor",
+    "image": "assets/rotor-original.webp",
+    "de": {
+      "status": "Abgeschlossenes Forschungsprojekt",
+      "period": "Januar 2019 – April 2023 · TU-Projektseite",
+      "role": "Workpackage-Leitung",
+      "description": "Regelungsentwurf, Antriebsmodellierung und Validierung für ein Rotorsystem mit variabler Drehzahl.",
+      "amount": "Projektförderung · Betrag nicht öffentlich ausgewiesen"
+    },
+    "extra": [
+      [
+        "Period source",
+        "TU Wien reports January 2019–April 2023; the FFG database lists 2020–2024. Dates refer to their respective project records.",
+        "Zeitraumquelle",
+        "TU Wien nennt Januar 2019–April 2023, die FFG-Datenbank 2020–2024. Die Angaben beziehen sich auf die jeweiligen Projektdatensätze."
+      ]
+    ]
+  },
+  {
+    "id": "motorcycle",
+    "title": "RWS Motorcycle — Friction Potential Estimation",
+    "funder": "Industrial research funding",
+    "status": "Research collaboration",
+    "period": "See project record for current status",
+    "role": "Work package lead",
+    "description": "Tyre–road friction estimation for motorcycle safety, combining models, measurements and experimental validation.",
+    "partners": "TU Wien · Technical Dynamics and Vehicle System Dynamics",
+    "amount": "Industrial funding · no public amount",
+    "url": "https://www.tuwien.at/en/mwbw/mec/e325-01-research-unit-of-technical-dynamics-and-vehicle-system-dynamics/research-projects/motorcycle-safety",
+    "tags": [
+      "Vehicle safety",
+      "Estimation",
+      "Motorcycles"
+    ],
+    "search": "motorcycle",
+    "image": "assets/motorcycle-original.webp",
+    "de": {
+      "status": "Forschungskooperation",
+      "period": "Aktuellen Status der Projektseite entnehmen",
+      "role": "Workpackage-Leitung",
+      "description": "Reifen-Fahrbahn-Reibpotenzialschätzung für Motorradsicherheit durch Modelle, Messungen und experimentelle Validierung.",
+      "amount": "Industriefinanzierung · kein öffentlicher Betrag"
+    },
+    "extra": []
+  },
+  {
+    "id": "fanfare",
+    "title": "FANFARE — Safer Micromobility",
+    "funder": "VSF · Austrian Road Safety Fund",
+    "status": "Research collaboration",
+    "period": "See programme record for project period",
+    "role": "Work package lead",
+    "description": "Electronic braking assistance for e-scooters, evaluated through measurements and realistic riding tests.",
+    "partners": "TU Wien · AIT Austrian Institute of Technology",
+    "amount": "Programme funding · amount not publicly reported",
+    "url": "https://www.ait.ac.at/themen/verkehrssicherheit-und-unfallforschung/projects/fanfare",
+    "tags": [
+      "Micromobility",
+      "Brake-by-wire",
+      "Safety"
+    ],
+    "search": "scooter",
+    "image": "assets/scooter-original.webp",
+    "de": {
+      "status": "Forschungskooperation",
+      "period": "Projektzeitraum siehe Programminformation",
+      "role": "Workpackage-Leitung",
+      "description": "Elektronische Bremsassistenz für E-Scooter, untersucht durch Messungen und praxisnahe Fahrversuche.",
+      "amount": "Programmförderung · Betrag nicht öffentlich ausgewiesen"
+    },
+    "extra": []
+  }
+]

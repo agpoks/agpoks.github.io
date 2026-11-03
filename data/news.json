@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "award-2026",
+      "date": "2026-07-03",
+      "category": "Award",
+      "title": "Doctoral dissertation award — third prize",
+      "title_de": "Dissertationspreis — dritter Preis",
+      "text": "My dissertation on predictive control for electric refrigeration vehicles was recognized by the Vehicle Industry Association Anniversary Foundation.",
+      "text_de": "Meine Dissertation zur prädiktiven Regelung elektrischer Kühlfahrzeuge wurde durch die Fahrzeugverband-Jubiläumsstiftung ausgezeichnet.",
+      "url": "https://www.tuwien.at/mwbw/news/innovationen-fuer-die-mobilitaet-von-morgen-ausgezeichnet",
+      "source": "TU Wien",
+      "date_label": "Award ceremony"
+    },
+    {
+      "id": "aida-2026",
+      "date": "2026-07",
+      "category": "Funding",
+      "title": "AIDA — FWF funding awarded",
+      "title_de": "AIDA — FWF-Förderung bewilligt",
+      "text": "Principal Investigator of AIDA — AI-Driven Distributed Autonomy at TU Wien.",
+      "text_de": "Principal Investigator von AIDA — AI-Driven Distributed Autonomy an der TU Wien.",
+      "url": "https://www.linkedin.com/in/agnes-poks",
+      "source": "LinkedIn / research announcement",
+      "date_label": "Announcement month"
+    },
+    {
+      "id": "defense-2025",
+      "date": "2025-04-04",
+      "category": "Research",
+      "title": "Doctoral defense at TU Wien",
+      "title_de": "Dissertationsverteidigung an der TU Wien",
+      "text": "I defended my dissertation, Predictive Control Concepts for Electric Refrigeration Vehicles.",
+      "text_de": "Ich habe meine Dissertation Predictive Control Concepts for Electric Refrigeration Vehicles verteidigt.",
+      "url": "https://www.linkedin.com/posts/agnes-poks_on-april-4-2025-i-successfully-defended-activity-7318610637985660928-nM5l",
+      "source": "LinkedIn",
+      "date_label": "Defense date"
+    }
+  ],
+  "sync": {
+    "status": "not_configured",
+    "last_success": null
+  }
+}

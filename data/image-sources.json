@@ -1,0 +1,94 @@
+[
+  {
+    "file": "conserve-original.webp",
+    "image_url": "https://www.tuwien.at/index.php?eID=dumpFile&p=7080631&t=p&token=01e497ba2785982fc0cfa696c63cb3a669ff25f0",
+    "source_page": "https://www.tuwien.at/en/mwbw/mec/e325-04-research-unit-of-control-and-process-automation/research-projects/conserve",
+    "size": [
+      576,
+      384
+    ]
+  },
+  {
+    "file": "rotor-original.webp",
+    "image_url": "https://www.tuwien.at/index.php?eID=dumpFile&p=7080685&t=p&token=eca357db6aed21f716cc0950fbcdf60067f83d21",
+    "source_page": "https://www.tuwien.at/en/mwbw/mec/e325-04-research-unit-of-control-and-process-automation/research-projects/varispeed-ii",
+    "size": [
+      576,
+      384
+    ]
+  },
+  {
+    "file": "motorcycle-original.webp",
+    "image_url": "https://www.tuwien.at/index.php?eID=dumpFile&p=3080861&t=p&token=420e972be62ba08bfd87feb1f98381b8fd4ed498",
+    "source_page": "https://www.tuwien.at/en/mwbw/mec/e325-01-research-unit-of-technical-dynamics-and-vehicle-system-dynamics/research-projects/motorcycle-safety",
+    "size": [
+      1440,
+      597
+    ]
+  },
+  {
+    "file": "scooter-original.webp",
+    "image_url": "https://www.tuwien.at/fileadmin/_processed_/f/e/csm_E-Scooter_Einweisung_2_c_TU_Wien_034ad6370a.jpg",
+    "source_page": "https://www.tuwien.at/tu-wien/aktuelles/news/intelligente-bremse-soll-e-scooter-sicherer-machen",
+    "size": [
+      1200,
+      800
+    ]
+  },
+  {
+    "file": "fuelcell-original.webp",
+    "image_url": "https://www.avl.com/sites/default/files/styles/social_media/public/pressrelease/Company/PressReleases/Press%20Releases%202020/Das%20Demonstrationsfahrzeug_0.jpeg.jpg?h=8f9c3751&itok=FWw9xL5t",
+    "source_page": "https://www.avl.com/en/press/press-release/intensive-research-work-results-fuel-cell-concept-vehicle",
+    "size": [
+      1200,
+      675
+    ]
+  },
+  {
+    "file": "roboracer-platform.webp",
+    "source_page": "https://www.tuwien.at/inf/scuderia-segfault/racing/model-race-car/",
+    "credit": "Scuderia Segfault / TU Wien; representative platform, not an AIDA result"
+  },
+  {
+    "file": "conserve-test-vehicle.webp",
+    "source_page": "https://doi.org/10.1109/ACCESS.2024.3507673",
+    "credit": "Poks, Schirrer & Kozek, IEEE Access (2024), experimental vehicle photo"
+  },
+  {
+    "file": "safe-nmpc-architecture.webp",
+    "source_page": "https://arxiv.org/abs/2603.24503",
+    "credit": "Clement et al. (2026), Figure 1; extracted from public PDF"
+  },
+  {
+    "file": "safe-nmpc-trajectories.webp",
+    "source_page": "https://arxiv.org/abs/2603.24503",
+    "credit": "Clement et al. (2026), Figure 3; extracted from public PDF"
+  },
+  {
+    "file": "distributed-cooling-control.webp",
+    "source_page": "https://doi.org/10.1016/j.tsep.2022.101319",
+    "credit": "Poks et al. (2022), Figure 1; extracted from public PDF"
+  },
+  {
+    "file": "fault-diagnosis-setup.webp",
+    "source_page": "https://doi.org/10.1016/j.applthermaleng.2023.120277",
+    "credit": "Poks et al. (2023), Figure 1; extracted from public PDF"
+  },
+  {
+    "file": "conserve-tu-vehicle.jpg",
+    "source_page": "https://www.tuwien.at/en/mwbw/mec/e325-04-research-unit-of-control-and-process-automation/research-projects/conserve",
+    "credit": "TU Wien / CONSERVE public project page"
+  },
+  {
+    "file": "porsche-tu.jpg",
+    "image_url": "https://www.tuwien.at/index.php?eID=dumpFile&t=p&p=2128294&token=d96a4da9c0b9635e767bafa8cdf1a3467afb5ca0",
+    "source_page": "https://www.tuwien.at/mwbw/mec/e325-01-forschungsbereich-technische-dynamik-und-fahrzeugdynamik",
+    "credit": "TU Wien"
+  },
+  {
+    "file": "cariad-powerslide.jpg",
+    "source_page": "https://www.tuwien.at/en/mwbw/mec/research-projects",
+    "image_url": "https://www.tuwien.at/index.php?eID=dumpFile&t=p&p=3054021&token=75a5151a9b8e31f59bc4a176a1ccdc3d9e09e0e5",
+    "credit": "TU Wien public research project image; CARIAD / Porsche Powerslide"
+  }
+]
