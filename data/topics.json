@@ -1,0 +1,98 @@
+[
+  {
+    "kind": "Project, 6 to 12 ECTS",
+    "title": "Surface-Aware Minimum-Time Raceline Optimization on Three-Dimensional Tracks",
+    "supervisors": "Dr. Agnes Poks, Larisa Clement, Philipp Gratzer, Univ. Prof. Ezio Bartocci",
+    "summary": "Extend minimum-time racing-line optimization to elevation and banking; compare the 3D formulation with the existing planar baseline.",
+    "summary_de": "Erweitere die zeitoptimale Rennlinienplanung um Höhenprofil und Überhöhung und vergleiche sie mit dem vorhandenen 2D-Verfahren.",
+    "status": "enquire"
+  },
+  {
+    "kind": "Project, 6 to 12 ECTS",
+    "title": "High-Dynamics 3D LiDAR–Inertial Mapping for Scaled Autonomous Racetracks",
+    "supervisors": "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci",
+    "summary": "Build repeatable 3D track maps from LiDAR and IMU data. Benchmark mapping pipelines and investigate one improvement for high-speed racing.",
+    "summary_de": "Erstelle reproduzierbare 3D-Streckenkarten aus LiDAR- und IMU-Daten. Vergleiche Mapping-Verfahren und untersuche eine Verbesserung für hohe Geschwindigkeiten.",
+    "status": "enquire"
+  },
+  {
+    "kind": "Project, 6 to 12 ECTS",
+    "title": "Optical Ground-Flow-Aided Sideslip Estimation and Feedback Control for Scaled Autonomous Racing",
+    "supervisors": "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci",
+    "summary": "Fuse downward-facing optical-flow measurements with vehicle sensors to estimate sideslip and improve feedback control near the handling limit.",
+    "summary_de": "Fusioniere bodengerichteten optischen Fluss mit Fahrzeugsensoren, um den Schwimmwinkel zu schätzen und die Regelung im Grenzbereich zu verbessern.",
+    "status": "enquire"
+  },
+  {
+    "kind": "Project, 6 to 12 ECTS",
+    "title": "Batched GPU-Accelerated Nonlinear Model Predictive Control for Scaled Autonomous Racing",
+    "supervisors": "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci",
+    "summary": "Investigate batched GPU optimization for nonlinear MPC and evaluate solution quality, runtime and real-time feasibility on a racing platform.",
+    "summary_de": "Untersuche parallele GPU-Optimierung für nichtlineare MPC und bewerte Lösungsqualität, Laufzeit und Echtzeitfähigkeit auf einer Rennplattform.",
+    "status": "enquire"
+  },
+  {
+    "kind": "Master's Thesis",
+    "title": "Latency-Aware RGB-D Obstacle Detection and Tracking for Scaled Autonomous Racing",
+    "supervisors": "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci",
+    "summary": "Develop RGB-D obstacle detection and tracking with an explicit latency budget, and evaluate accuracy and timing in autonomous racing.",
+    "summary_de": "Entwickle RGB-D-Hinderniserkennung und Tracking mit einem definierten Latenzbudget und bewerte Genauigkeit und Laufzeit beim autonomen Fahren.",
+    "status": "enquire"
+  },
+  {
+    "kind": "Master’s Thesis",
+    "title": "Failure-Aware Multi-Sensor Localization for High-Speed Scaled Autonomous Racing",
+    "supervisors": "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci",
+    "summary": "Design multi-sensor pose estimation that detects sensor failures, contains their effects and recovers reliable localization at high speed.",
+    "summary_de": "Entwickle eine Multisensor-Positionsschätzung, die Sensorausfälle erkennt, ihre Folgen begrenzt und eine zuverlässige Lokalisierung wiederherstellt.",
+    "status": "enquire"
+  },
+  {
+    "kind": "Master's Thesis",
+    "title": "Uncertainty-Aware Online Vehicle System Identification for Adaptive Autonomous Racing",
+    "supervisors": "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci",
+    "summary": "Estimate changing vehicle parameters online with uncertainty information and physically plausible constraints for adaptive racing control.",
+    "summary_de": "Schätze veränderliche Fahrzeugparameter online mit Unsicherheitsinformation und physikalischen Nebenbedingungen für adaptive Rennregelung.",
+    "status": "enquire"
+  },
+  {
+    "kind": "Master's Thesis",
+    "title": "Failure-Aware 3D LiDAR Map Localization with Global Recovery for Autonomous Racing",
+    "supervisors": "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci",
+    "summary": "Localize against an existing 3D LiDAR map, monitor alignment quality and recover globally when local tracking is lost.",
+    "summary_de": "Lokalisiere das Fahrzeug in einer vorhandenen 3D-LiDAR-Karte, überwache die Zuordnungsgüte und entwickle eine globale Wiederlokalisierung.",
+    "status": "enquire"
+  },
+  {
+    "kind": "Master's Thesis",
+    "title": "Physics-Guided Transfer Learning of Liquid Vehicle Dynamics Models",
+    "supervisors": "Supervision: Dr. Agnes Poks, Larisa Clement, Monika Farsang and Prof. Ezio Bartocci",
+    "summary": "Transfer learned liquid vehicle-dynamics models between operating conditions using physical structure and evaluate data efficiency and prediction quality.",
+    "summary_de": "Übertrage gelernte Liquid-Fahrzeugmodelle mithilfe physikalischer Struktur auf andere Betriebsbedingungen und bewerte Datenbedarf und Vorhersagegüte.",
+    "status": "enquire"
+  },
+  {
+    "kind": "Master's Thesis",
+    "title": "Physics-Informed Liquid Neural Networks for Vehicle Dynamics and Predictive Control",
+    "supervisors": "Dr. Agnes Poks, Larisa Clement, Monika Farsang, Univ. Prof. Ezio Bartocci",
+    "summary": "Combine physical vehicle models with liquid neural networks and assess their usefulness for prediction and model predictive control.",
+    "summary_de": "Verbinde physikalische Fahrzeugmodelle mit Liquid Neural Networks und untersuche ihren Nutzen für Prädiktion und modellprädiktive Regelung.",
+    "status": "enquire"
+  },
+  {
+    "kind": "Master's Thesis",
+    "title": "Diffusion-Based Behaviour Priors for MPCC in Autonomous Racing",
+    "supervisors": "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci",
+    "summary": "Generate follow, overtake and abort trajectory candidates with diffusion models, then use them as behaviour priors for constrained MPCC.",
+    "summary_de": "Erzeuge mit Diffusionsmodellen Trajektorien für Folgen, Überholen und Abbrechen als Verhaltensprioren für eine MPCC mit Nebenbedingungen.",
+    "status": "enquire"
+  },
+  {
+    "kind": "Master's Thesis",
+    "title": "Neuro-Symbolic Behaviour Learning for Safe Overtaking in 1:10 Autonomous Racing",
+    "supervisors": "Dr. Agnes Poks, Larisa Clement, Univ. Prof. Ezio Bartocci",
+    "summary": "Combine learned continuous predicates with a symbolic decision layer for safe overtaking, connected to a low-level racing controller.",
+    "summary_de": "Verbinde gelernte kontinuierliche Prädikate mit einer symbolischen Entscheidungsebene für sicheres Überholen und einer unterlagerten Rennregelung.",
+    "status": "ongoing"
+  }
+]
