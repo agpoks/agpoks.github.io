@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Two-Degree-of-Freedom Compound Split Transmission Control for a Helicopter Powertrain",
+    "year": "2026",
+    "doi": "10.1109/TAES.2026.3666443",
+    "venue": "IEEE Transactions on Aerospace and Electronic Systems",
+    "kind": "published",
+    "authors": "Poks, Agnes and Schirrer, Alexander and Gratzer, Alexander L. and Derboghossian, Robert and Scheu, Thomas and Kozek, Martin and Jakubek, Stefan",
+    "note": ""
+  },
+  {
+    "title": "Towards Safe Learning-Based Non-Linear Model Predictive Control through Recurrent Neural Network Modeling",
+    "year": "2026",
+    "doi": "10.48550/arXiv.2603.24503",
+    "venue": "arXiv · preprint",
+    "kind": "preprint",
+    "authors": "Clement, Mihaela-Larisa and Farsang, Mónika and Poks, Agnes and Edelmann, Johannes and Plöchl, Manfred and Grosu, Radu and Bartocci, Ezio",
+    "note": ""
+  },
+  {
+    "title": "Predictive Control Concepts for Electric Refrigeration Vehicles",
+    "year": "2025",
+    "doi": "10.34726/hss.2025.82040",
+    "venue": "TU Wien",
+    "kind": "thesis",
+    "authors": "Poks, Agnes",
+    "note": ""
+  },
+  {
+    "title": "Adaptive Speed Gearbox Design for the UH-60A Helicopter with integrated Electric Variator and Frequency investigation",
+    "year": "2025",
+    "doi": "10.4050/F-0081-2025-346",
+    "venue": "The Vertical Flight Society 81th Annual Forum & Technology Display  - 2025 USA",
+    "kind": "published",
+    "authors": "Scheu, Thomas and Weigand, Michael and Gross, Christopher and Poks, Agnes and Willinger, Reinhard",
+    "note": ""
+  },
+  {
+    "title": "Energy Management in Refrigerated Electric Small Transport: A Hierarchical Approach",
+    "year": "2024",
+    "doi": "10.1109/ACCESS.2024.3507673",
+    "venue": "IEEE Access",
+    "kind": "published",
+    "authors": "Poks, Agnes and Schirrer, Alexander and Kozek, Martin",
+    "note": ""
+  },
+  {
+    "title": "Towards Friction Potential Estimation for Motorcycles",
+    "year": "2024",
+    "doi": "10.1007/978-3-031-70392-8_78",
+    "venue": "16th International Symposium on Advanced Vehicle Control",
+    "kind": "published",
+    "authors": "Klinger, Florian\nand Ott, Christoph\nand Poks, Agnes\nand Edelmann, Johannes\nand Plöchl, Manfred",
+    "note": ""
+  },
+  {
+    "title": "Fault detection and isolation for a secondary loop refrigeration system",
+    "year": "2023",
+    "doi": "10.1016/j.applthermaleng.2023.120277",
+    "venue": "Applied Thermal Engineering",
+    "kind": "published",
+    "authors": "Poks, Agnes and Fallmann, Markus and Fink, Lorenz and Rinnofner, Lukas and Kozek, Martin",
+    "note": ""
+  },
+  {
+    "title": "Control-oriented hybrid model of a small-scale refrigerated truck chamber",
+    "year": "2023",
+    "doi": "10.1016/j.applthermaleng.2022.119719",
+    "venue": "Applied Thermal Engineering",
+    "kind": "published",
+    "authors": "Fallmann, Markus and Poks, Agnes and Kozek, Martin",
+    "note": ""
+  },
+  {
+    "title": "Test Bed Emulation of Secondary Loop Refrigeration Units Using Peltier Elements: An Impedance Control Approach",
+    "year": "2023",
+    "doi": "10.1016/j.ifacol.2023.10.855",
+    "venue": "IFAC-PapersOnLine",
+    "kind": "published",
+    "authors": "Fallmann, Markus and K{\\\"o}lbl, Julian and Ausweger, Tobias and L{\\\"o}sch, Maximilian and Poks, Agnes and Kozek, Martin",
+    "note": ""
+  },
+  {
+    "title": "Dynamic Simulation of a Rotorcraft Main Transmission with continuous variable ratio",
+    "year": "2023",
+    "doi": "",
+    "venue": "The Vertical Flight Society's 79th Annual Forum \\& Technology Display  - 2023 USA",
+    "kind": "published",
+    "authors": "Donner, Florian and Poks, Agnes and Scheu, Thomas and Weigand, Michael",
+    "note": "Year follows Forum 79 (2023); original website BibTeX states 2022."
+  },
+  {
+    "title": "Energy-efficient hybrid model predictive control of mobile refrigeration systems",
+    "year": "2023",
+    "doi": "10.1016/j.applthermaleng.2023.121347",
+    "venue": "Applied Thermal Engineering",
+    "kind": "published",
+    "authors": "Fallmann, Markus and Lösch, Maximilian and Poks, Agnes and Kozek, Martin",
+    "note": ""
+  },
+  {
+    "title": "Simulation-based sizing of a secondary loop cooling system for a refrigerated vehicle",
+    "year": "2023",
+    "doi": "10.3390/en16186459",
+    "venue": "Energies",
+    "kind": "published",
+    "authors": "Lösch, Maximilian and Fallmann, Markus and Poks, Agnes and Kozek, Martin",
+    "note": ""
+  },
+  {
+    "title": "Distributed hierarchical control for multiple refrigeration units",
+    "year": "2022",
+    "doi": "10.1016/j.tsep.2022.101319",
+    "venue": "Thermal Science and Engineering Progress",
+    "kind": "published",
+    "authors": "Poks, Agnes and Luchini, Elisabeth and Fallmann, Markus and Signor, Camillo and Wurzinger, Andreas and Radler, Dominik and Jakubek, Stefan and Kozek, Martin",
+    "note": ""
+  },
+  {
+    "title": "Hybrid model-based online estimation of air temperature in mobile small-scale cooling chambers",
+    "year": "2022",
+    "doi": "10.1016/j.applthermaleng.2022.118147",
+    "venue": "Applied Thermal Engineering",
+    "kind": "published",
+    "authors": "Fallmann, Markus and Poks, Agnes and Kozek, Martin",
+    "note": ""
+  },
+  {
+    "title": "Model Predictive Control for Mobile Refrigeration Systems: Challenges and Approaches",
+    "year": "2022",
+    "doi": "",
+    "venue": "Science. Research. Pannonia",
+    "kind": "published",
+    "authors": "Fallmann, Markus and Poks, Agnes and Kozek, Martin",
+    "note": ""
+  },
+  {
+    "title": "Dynamic Simulation of a Rotor System with Variable Speed",
+    "year": "2022",
+    "doi": "",
+    "venue": "Vertical Flight Society - 78th Annual Forum and Technology Display - 2022 USA",
+    "kind": "published",
+    "authors": "Bischläger, Mario and Gross, Christopher and Koch, Jonas and Poks, Agnes and Weigand, Michael",
+    "note": ""
+  },
+  {
+    "title": "Wholistic simulation of an all-electric refrigerated delivery vehicle",
+    "year": "2020",
+    "doi": "10.23919/SICEISCS48470.2020.9083498",
+    "venue": "2020 SICE International Symposium on Control Systems (SICE ISCS)",
+    "kind": "published",
+    "authors": "Poks, Agnes and Luchini, Elisabeth and Kitanoski, Filip and Kozek, Martin",
+    "note": ""
+  },
+  {
+    "title": "Model predictive temperature control for a food transporter with door-openings",
+    "year": "2020",
+    "doi": "10.23919/SICEISCS48470.2020.9083491",
+    "venue": "2020 SICE International Symposium on Control Systems (SICE ISCS)",
+    "kind": "published",
+    "authors": "Luchini, Elisabeth and Poks, Agnes and Radler, Dominik and Kozek, Martin",
+    "note": ""
+  }
+]
