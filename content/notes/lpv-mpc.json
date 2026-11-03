@@ -1,0 +1,28 @@
+{
+  "slug": "lpv-mpc",
+  "title": "LPV model predictive control in C++",
+  "title_de": "LPV-Modellprädiktive Regelung in C++",
+  "category": "project",
+  "summary": "An open-source implementation with CasADi and IPOPT, illustrated by track and control-signal figures.",
+  "summary_de": "Eine Open-Source-Implementierung mit CasADi und IPOPT sowie Strecken- und Regelsignalabbildungen.",
+  "cover": "assets/lpv-track.png",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "LPV_MPC_cpp explores linear parameter-varying model predictive control in C++. The public repository contains implementation code and example visualisations.",
+      "text_de": "LPV_MPC_cpp untersucht linear parameterveränderliche modellprädiktive Regelung in C++. Das öffentliche Repository enthält Implementierung und Beispielvisualisierungen."
+    },
+    {
+      "type": "image",
+      "src": "assets/lpv-track.png",
+      "caption": "Original track visualisation from LPV_MPC_cpp."
+    },
+    {
+      "type": "link",
+      "text": "Code, README and examples on GitHub",
+      "url": "https://github.com/agpoks/LPV_MPC_cpp"
+    }
+  ],
+  "date": "2026-11-03",
+  "status": "published"
+}

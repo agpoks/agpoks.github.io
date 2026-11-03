@@ -1,0 +1,53 @@
+{
+  "slug": "reading-mpc-plots",
+  "title": "How to read an MPC trajectory plot",
+  "title_de": "Eine MPC-Trajektorie lesen",
+  "category": "tutorial",
+  "summary": "A short introduction to reference paths, predicted motion and constraints.",
+  "summary_de": "Eine kurze Einführung in Referenzpfade, vorhergesagte Bewegung und Nebenbedingungen.",
+  "cover": "assets/lpv-track.png",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "A trajectory plot connects a controller’s decisions to motion in space. Before comparing curves, check the axes, units, legend and the time interval shown.",
+      "text_de": "Ein Trajektorienplot verbindet Reglerentscheidungen mit einer Bewegung im Raum. Prüfe vor einem Kurvenvergleich Achsen, Einheiten, Legende und dargestellten Zeitraum."
+    },
+    {
+      "type": "heading",
+      "text": "1. Reference and actual motion",
+      "text_de": "1. Referenz und tatsächliche Bewegung"
+    },
+    {
+      "type": "paragraph",
+      "text": "The reference describes the desired motion. A measured or simulated trajectory shows the response. A predicted trajectory is a forecast from one optimisation step; it is not the same as the subsequently executed path.",
+      "text_de": "Die Referenz beschreibt die gewünschte Bewegung. Eine gemessene oder simulierte Trajektorie zeigt die Reaktion. Eine vorhergesagte Trajektorie ist eine Prognose eines Optimierungsschritts und nicht mit dem später tatsächlich ausgeführten Pfad gleichzusetzen."
+    },
+    {
+      "type": "image",
+      "src": "assets/lpv-track.png",
+      "caption": "Example visualisation from LPV_MPC_cpp; consult the repository for the specific legend and setup."
+    },
+    {
+      "type": "heading",
+      "text": "2. Constraints and control effort",
+      "text_de": "2. Nebenbedingungen und Stellaufwand"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tracking error is only one criterion. Check whether the motion respects state and input constraints. Steering, acceleration and their rates can reveal demanding control actions even when the path looks accurate.",
+      "text_de": "Der Folgefehler ist nur ein Kriterium. Prüfe auch Zustands- und Stellgrößenbeschränkungen. Lenken, Beschleunigen und deren Änderungsraten können anspruchsvolle Stelleingriffe zeigen, selbst wenn der Pfad genau aussieht."
+    },
+    {
+      "type": "heading",
+      "text": "3. Reproducibility",
+      "text_de": "3. Reproduzierbarkeit"
+    },
+    {
+      "type": "paragraph",
+      "text": "A meaningful comparison states the model, horizon, sample time, constraints and test conditions. A visually close path alone does not establish safety or robustness.",
+      "text_de": "Ein aussagekräftiger Vergleich nennt Modell, Horizont, Abtastzeit, Nebenbedingungen und Testbedingungen. Ein optisch genauer Pfad allein belegt weder Sicherheit noch Robustheit."
+    }
+  ],
+  "date": "2026-11-03",
+  "status": "published"
+}

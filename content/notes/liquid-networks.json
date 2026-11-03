@@ -1,0 +1,28 @@
+{
+  "slug": "liquid-networks",
+  "title": "Exploring liquid and recurrent neural networks",
+  "title_de": "Liquid Neural Networks und rekurrente Modelle erkunden",
+  "category": "project",
+  "summary": "Model implementations, examples and comparisons from liquid-nn-playground.",
+  "summary_de": "Modellimplementierungen, Beispiele und Vergleiche aus liquid-nn-playground.",
+  "cover": "assets/liquid-models.png",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The playground brings together liquid neural network models and recurrent baselines, including LTC, CfC, NCP, Liquid-S4 and LrcSSM. It includes Python and notebook examples, datasets and benchmark configurations.",
+      "text_de": "Der Playground vereint Liquid Neural Networks und rekurrente Vergleichsmodelle, darunter LTC, CfC, NCP, Liquid-S4 und LrcSSM. Er enthält Python- und Notebook-Beispiele, Datensätze und Benchmark-Konfigurationen."
+    },
+    {
+      "type": "image",
+      "src": "assets/liquid-models.png",
+      "caption": "Model comparison figure from the public repository."
+    },
+    {
+      "type": "link",
+      "text": "Explore repositories on GitHub",
+      "url": "https://github.com/agpoks"
+    }
+  ],
+  "date": "2026-11-03",
+  "status": "published"
+}

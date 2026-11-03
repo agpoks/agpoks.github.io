@@ -1,0 +1,22 @@
+{
+  "slug": "stability-explorer",
+  "title": "Discrete-time stability explorer",
+  "title_de": "Stabilität diskreter Systeme erkunden",
+  "category": "tool",
+  "summary": "Change one parameter and see convergence, oscillation or divergence in a scalar system.",
+  "summary_de": "Mit einem Parameter Konvergenz, Schwingung und Divergenz eines skalaren Systems erkunden.",
+  "cover": "assets/stability-explorer.svg",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "This small educational tool simulates x[k+1] = a x[k]. It illustrates asymptotic stability for |a| < 1, marginal cases at |a| = 1, and divergence for |a| > 1. It is an illustrative scalar model, not a vehicle simulation.",
+      "text_de": "Dieses kleine Lehrwerkzeug simuliert x[k+1] = a x[k]. Es zeigt asymptotische Stabilität für |a| < 1, Grenzfälle bei |a| = 1 und Divergenz für |a| > 1. Es handelt sich um ein illustratives skalares Modell, keine Fahrzeugsimulation."
+    },
+    {
+      "type": "tool",
+      "name": "scalar-stability"
+    }
+  ],
+  "date": "2026-11-03",
+  "status": "published"
+}
