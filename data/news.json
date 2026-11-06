@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "roboracer-arena-2026",
+      "date": "2026-10-08",
+      "category": "Research",
+      "title": "RoboRacer Arena preprint updated",
+      "title_de": "RoboRacer Arena als überarbeiteter Preprint",
+      "text": "Our updated preprint presents specification-driven construction of tracks for autonomous racing in simulation.",
+      "text_de": "Unser überarbeiteter Preprint stellt die spezifikationsbasierte Konstruktion von Strecken für autonomes Rennfahren in der Simulation vor.",
+      "url": "https://arxiv.org/abs/2608.23040",
+      "source": "arXiv",
+      "date_label": "Preprint revision"
+    },
+    {
       "id": "award-2026",
       "date": "2026-07-03",
       "category": "Award",
