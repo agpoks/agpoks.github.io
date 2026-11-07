@@ -47,6 +47,18 @@
       "url": "https://www.linkedin.com/posts/agnes-poks_on-april-4-2025-i-successfully-defended-activity-7318610637985660928-nM5l",
       "source": "LinkedIn",
       "date_label": "Defense date"
+    },
+    {
+      "id": "caiml-physical-ai-sig-proposal",
+      "date": "2026-11",
+      "category": "Community",
+      "title": "Building a CAIML SIG on Physical AI and Embodied Intelligence",
+      "title_de": "Aufbau eines CAIML-SIG zu Physical AI und verkörperter Intelligenz",
+      "text": "Together with Ezio Bartocci and colleagues at TU Wien, I am developing a Special Interest Group proposal connecting AI, robotics, mechanics and control. The initiative aims to support scientific exchange and joint research.",
+      "text_de": "Gemeinsam mit Ezio Bartocci und weiteren Kolleginnen und Kollegen an der TU Wien entwickle ich einen Vorschlag für eine Special Interest Group, die KI, Robotik, Mechanik und Regelung verbindet. Die Initiative soll wissenschaftlichen Austausch und gemeinsame Forschung unterstützen.",
+      "url": "https://agpoks.github.io/cv.html#caiml-sig",
+      "source": "CAIML SIG proposal",
+      "date_label": "Initiative in preparation"
     }
   ],
   "sync": {
